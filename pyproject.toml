@@ -3,7 +3,7 @@ name = "decoding-gpt"
 version = "0.0.4"
 description = "course materials for CSM AMS course 'Decoding GPT'"
 authors = [
-	{ name = "Michael Ivanitskiy", email = "mivanits@mines.edu" },
+	{ name = "Melody Goldanloo", email = "melody_goldanloo@mines.edu" },
 ]
 readme = "README.md"
 requires-python = ">=3.11,<3.13"
