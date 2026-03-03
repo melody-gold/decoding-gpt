@@ -9,6 +9,9 @@ __pycache__/
 # C extensions
 *.so
 
+# My LLM proj
+llm_proj/
+
 # Distribution / packaging
 .Python
 build/
